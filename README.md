@@ -1,3 +1,9 @@
+About Me :-
+
+An inquisitive person, with a good understanding of data structures and algorithms. I have been engaged in multiple web development projects.
+
+
+
 - 👋 Hi, I’m @ProshantaDebnath
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning React js

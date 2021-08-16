@@ -8,7 +8,7 @@ An inquisitive person, with a good understanding of data structures and algorith
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : debnathproshanta80@gmail.com
 
 <!---
 ProshantaDebnath/ProshantaDebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

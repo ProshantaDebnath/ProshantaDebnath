@@ -15,4 +15,4 @@ ProshantaDebnath/ProshantaDebnath is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://tcboard.in/web/image/2401/5083e0a2a7dcaae07c142e8b87036a27.gif" width="350" height="250"/>
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="380" height="250"/>

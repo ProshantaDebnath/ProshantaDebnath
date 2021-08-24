@@ -14,9 +14,9 @@ An inquisitive person, with a good understanding of data structures and algorith
 ProshantaDebnath/ProshantaDebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<div align="center">
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="380" height="250"/>
-
+</div>
 
 
 <h2 align="center">Languages and Tools:</h2>

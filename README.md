@@ -1,25 +1,27 @@
-##About Me :-
-
-An inquisitive person, with a good understanding of data structures and algorithms. I have been engaged in multiple web development projects.
-
-
-
-- 👋 Hi, I’m @ProshantaDebnath
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning React js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : debnathproshanta80@gmail.com
-
 <!---
 ProshantaDebnath/ProshantaDebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="380" height="250"/>
-</div>
 
+### Hey there! <img src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/Hi.gif" width="32px">
 
-<h2 align="center">Languages and Tools:</h2>
+<hr>
+
+<img align="right" alt="GIF" height="200px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+- 👋 Hi, I’m @ProshantaDebnath
+- 👀 I’m interested in MERN stack
+- 🌱 I’m currently learning Amazon AWS 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : debnathproshanta80@gmail.com
+
+About Me :-
+
+An inquisitive person, with a good understanding of data structures and algorithms. I have been engaged in multiple web development projects.
+
+<br>
+
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

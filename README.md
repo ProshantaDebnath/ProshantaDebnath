@@ -33,6 +33,9 @@ You can click the Preview link to take a look at your changes.
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="30" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code> 
+ <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> 
+ <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></code>
+ 
  </div>
 <br>
 
@@ -56,3 +59,5 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p> 
 <br>
+
+

@@ -2,8 +2,8 @@
 ProshantaDebnath/ProshantaDebnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-### Hey there! <img src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/Hi.gif" width="12px">
+<!-- <img src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/Hi.gif" width="12px"> -->
+### Hey there! 
 
 <hr>
 

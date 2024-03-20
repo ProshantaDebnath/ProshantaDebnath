@@ -31,7 +31,7 @@ An inquisitive person, with a good understanding of Test Automation. I have been
 
 ## 📈 GitHub Stats
 
-![Proshanta Debnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatt95&show_icons=true&theme=radical)
+![Proshanta Debnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProshantaDebnath&show_icons=true&theme=radical)
  
 <h2 align="center">Let's Connect !! 🤝</h2> 
 
